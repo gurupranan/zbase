@@ -35,7 +35,7 @@ const firebaseConfig = {
   
   
   if(validatePassword(newPassword) == false){
-	  alert('Please make sure password is atleast 6 character')
+	  alert('Please make sure password is atleast 6 character.')
   }
   
   if(validateEmail(newEmail) == false ){
