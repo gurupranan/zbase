@@ -39,7 +39,7 @@ const firebaseConfig = {
   }
   
   if(validateEmail(newEmail) == false ){
-	  alert('Please enter valid mail ')
+	  alert('Please enter valid mail. ')
   }
   
   
